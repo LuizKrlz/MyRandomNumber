@@ -13,6 +13,7 @@
 		D13595D624FDA1ED004B4C3A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D13595D424FDA1ED004B4C3A /* Main.storyboard */; };
 		D13595D824FDA1F0004B4C3A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D13595D724FDA1F0004B4C3A /* Assets.xcassets */; };
 		D13595DB24FDA1F0004B4C3A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D13595D924FDA1F0004B4C3A /* LaunchScreen.storyboard */; };
+		D13595E324FDA62F004B4C3A /* Captura de Tela 2020-08-31 às 18.41.48.png in Resources */ = {isa = PBXBuildFile; fileRef = D13595E224FDA62F004B4C3A /* Captura de Tela 2020-08-31 às 18.41.48.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D13595D724FDA1F0004B4C3A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D13595DA24FDA1F0004B4C3A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D13595DC24FDA1F0004B4C3A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D13595E224FDA62F004B4C3A /* Captura de Tela 2020-08-31 às 18.41.48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Captura de Tela 2020-08-31 às 18.41.48.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 			children = (
 				D13595CD24FDA1ED004B4C3A /* Gerador de Numeros */,
 				D13595CC24FDA1ED004B4C3A /* Products */,
+				D13595E224FDA62F004B4C3A /* Captura de Tela 2020-08-31 às 18.41.48.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D13595DB24FDA1F0004B4C3A /* LaunchScreen.storyboard in Resources */,
+				D13595E324FDA62F004B4C3A /* Captura de Tela 2020-08-31 às 18.41.48.png in Resources */,
 				D13595D824FDA1F0004B4C3A /* Assets.xcassets in Resources */,
 				D13595D624FDA1ED004B4C3A /* Main.storyboard in Resources */,
 			);
